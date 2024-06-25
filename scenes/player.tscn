@@ -228,7 +228,6 @@ texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_c2dgp")
 animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.731232
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(4, 4)
