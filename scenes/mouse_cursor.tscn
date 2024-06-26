@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://bcbykotss6qtg"]
+
+[node name="mouse_cursor" type="Node2D"]

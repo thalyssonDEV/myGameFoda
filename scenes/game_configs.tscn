@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://blkmc05u7l5ft"]
+
+[ext_resource type="Texture2D" uid="uid://c1peea3hdtkuw" path="res://assets/Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/HUD/Base-01.png" id="1_6kt4s"]
+
+[node name="game_configs" type="Sprite2D"]
+texture = ExtResource("1_6kt4s")
+region_enabled = true
+region_rect = Rect2(48.0012, 208.299, 16.5109, 15.3522)
